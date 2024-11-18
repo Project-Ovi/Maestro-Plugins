@@ -1,2 +1,2 @@
 # Maestro-Plugins
-A list of available plugins for Machina Maestro
+- OVI_MK2 - https://github.com/Project-Ovi/ovi-mk2-machina-maestro-plugin
